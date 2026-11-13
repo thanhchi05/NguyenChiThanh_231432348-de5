@@ -7,7 +7,7 @@
 | Mô phỏng Wokwi | [Tạo dự án ESP32 và nhập mã nguồn](https://wokwi.com/projects/480588881922549761) |
 | Code ESP32 | [sketch.ino](sketch.ino) |
 | Sơ đồ mạch | [diagram.json](diagram.json) |
-| Giao diện Web | [dashboard.html](dashboard.html) |
+| Giao diện Web | [dashboard.html]("C:\Users\Thanh\Downloads\bai_tap_lab3_1\dashboard.html") |
 
 ---
 
