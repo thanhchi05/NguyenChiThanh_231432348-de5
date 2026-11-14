@@ -8,6 +8,7 @@
 | Code ESP32 | [sketch.ino](sketch.ino) |
 | Sơ đồ mạch | [diagram.json](diagram.json) |
 | Giao diện Web | [Mở dashboard Giám sát té ngã](https://thanhchi05.github.io/NguyenChiThanh_231432348-de5/dashboard.html) |
+| Video mô phỏng | [Nội dung demo](video/README.md) · Chưa có video đính kèm |
 
 ---
 
