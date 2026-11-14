@@ -8,8 +8,8 @@
 | Code ESP32 | [sketch.ino](sketch.ino) |
 | Sơ đồ mạch | [diagram.json](diagram.json) |
 | Giao diện Web | [Mở dashboard Giám sát té ngã](https://thanhchi05.github.io/NguyenChiThanh_231432348-de5/dashboard.html) |
-| Video mô phỏng | [Nội dung demo](video/README.md) · Chưa có video đính kèm |
-| Báo cáo | [Xem báo cáo Word bài Lab](Bao_cao_qua_trinh_phat_hien_te_nga.docx) |
+| Video mô phỏng | [Xem video mô phỏng (MP4)](video/mo%20phong.mp4) |
+| Báo cáo | [Xem báo cáo Word Lab 3]( BaoCao_Lab3_FallDetection%20%281%29.docx) |
 
 ---
 
