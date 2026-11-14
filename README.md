@@ -9,7 +9,7 @@
 | Sơ đồ mạch | [diagram.json](diagram.json) |
 | Giao diện Web | [Mở dashboard Giám sát té ngã](https://thanhchi05.github.io/NguyenChiThanh_231432348-de5/dashboard.html) |
 | Video mô phỏng | [Nội dung demo](video/README.md) · Chưa có video đính kèm |
-| Báo cáo | [Xem báo cáo Word bài Lab](t%C3%A0i%20li%E1%BB%87u/Bao_cao_qua_trinh_phat_hien_te_nga.docx) |
+| Báo cáo | [Xem báo cáo Word bài Lab](Bao_cao_qua_trinh_phat_hien_te_nga.docx) |
 
 ---
 
